@@ -1,0 +1,3 @@
+CSS Selector: .home-top-section__button-container > div:nth-child(1) 
+XPath: /html/body/div/div/div[2]/section[1]/div/div/div[1]/a/div
+or //*[@id="__next"]/div/div[2]/section[1]/div/div/div[1]/a/div
